@@ -1,0 +1,26 @@
+.search-icon,
+.search-text {
+  color: #758a88;
+}
+.hr {
+  background-color: #e3e8e7 !important;
+}
+.container-navbar {
+  width: 85%;
+  margin: 0 auto;
+  background-color: blue;
+}
+.dark-mode {
+  background-color: #1b2936;
+  color: #ffffff;
+}
+.dark-mode .bg {
+  background-color: #213440;
+  color: white;
+}
+.dark-mode .color {
+  color: #e0e0e0;
+}
+.dark-mode .dark {
+  color: #6695a0;
+}
